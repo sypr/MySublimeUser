@@ -1,0 +1,11 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"myBootstrap compass": "https://github.com/sypr/myBootstrap/archive/master.zip",
+		"theme Wordpress Bootstrap": "https://github.com/sypr/myThemeBootstrap/archive/master.zip"
+	}
+}

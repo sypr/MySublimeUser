@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoSelect",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSSTidy",
+		"Emmet",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Minifier",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PhpBeautifier",
+		"PhpTidy",
+		"SublimeCodeIntel",
+		"Theme - Farzher",
+		"Theme - Nil",
+		"TidyHTML5",
+		"Wordpress"
+	]
+}
